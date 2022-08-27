@@ -1,4 +1,4 @@
-# Employee-Wage-Comparisons
+# Gender-Wage-Comparisons
 A project completed using Tableau Desktop to compare the hourly wage of females and males by NAICS classifications.
 
 # Project Link
