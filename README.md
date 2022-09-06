@@ -1,6 +1,8 @@
 # Canadian Employee Wage Comparisons Data Visualization
-Project Link: https://public.tableau.com/views/EmployeeWageComparisons/EmployeeWageDashboard
 Project Date: August 26, 2022
+
+## Project Link
+https://public.tableau.com/views/EmployeeWageComparisons/EmployeeWageDashboard
 
 ## Objective
 A project completed using Tableau Desktop to compare the hourly wage of females and males by NAICS classifications.
