@@ -1,4 +1,5 @@
 # Canadian Employee Wage Comparisons Data Visualization
+Project Link: https://public.tableau.com/views/EmployeeWageComparisons/EmployeeWageDashboard
 Project Date: August 26, 2022
 
 ## Objective
@@ -10,6 +11,3 @@ The datasets were collected from Statistics Canada.
 - Tableau Desktop
 
 ## Analysis Summary
-
-## Project Link
-https://public.tableau.com/views/EmployeeWageComparisons/EmployeeWageDashboard
