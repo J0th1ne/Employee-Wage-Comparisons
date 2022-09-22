@@ -1,4 +1,4 @@
-# Canadian Employee Wage Comparisons Data Visualization
+# Data Visualization of Employee Wage Comparisons in Canada
 Project Date: August 26, 2022
 
 ## Project Link
